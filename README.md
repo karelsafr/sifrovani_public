@@ -1,4 +1,5 @@
 # Statistika v akci: Prolamování šifer pomocí datové analýzy
+## Vysoká škola ekonomická v Paze
 ### Ing. Karel Šafr, Ph.D.
 ### Začátek: 	středa 9. dubna 2025, 09:00
 ### Konec: 	středa 9. dubna 2025, 15:00
